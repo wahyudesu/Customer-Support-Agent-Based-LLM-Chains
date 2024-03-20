@@ -1,0 +1,19 @@
+Locations
+A location is any physical place or an app where you do any or all of the following activities:
+
+sell products
+ship or fulfill orders
+stock inventory
+
+You can set up a single location in your Shopify store using your free subscription so that you can track inventory and fulfill orders at your location.
+
+Your location can be only an online store you manage or stock inventory.
+
+To make sure your inventory quantities are accurate, online orders and in-person sales are assigned to your location.
+If some of your inventory is out of stock at one location, then you can use Shopify to split the order so that it can be fulfilled from multiple locations.
+
+The maximum number of locations that you can have depends on your plan. Locations that you deactivate don't count toward your location limit.
+
+Apps that stock inventory or fulfill orders for you are considered to be locations, but don't count towards those limits. When you add such an app to your store, the app is automatically added as a location.
+
+If you have a custom app that was developed specifically for your store, then you might have to update it to use inventory tracking for multiple locations. Developers can learn more about migrating to support multiple locations.

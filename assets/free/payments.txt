@@ -1,0 +1,46 @@
+
+Make sure that you understand the payment process. When a customer checks out, they can choose to pay for their order using any of the methods that you've enabled in the Payment providers area of your Shopify admin. You can enable a variety of payment methods using Shopify.
+There are a few different things to consider when you're choosing which payment methods to offer. If you want to let your customers pay using a credit card, then you can use Shopify Payments or a third-party provider.
+There are also several ways for customers to pay online without using a credit card, like PayPal, Meta Pay, Amazon Pay, and Apple Pay. You might also want to accept additional methods of payment like cryptocurrency.
+
+How you get paid
+When you set up a payment provider to accept credit card payments, each payment must be processed, so there is usually a delay between when the customer pays for their order and when you receive the payment. After the payment is processed, the purchase amount will be transferred to your merchant account.
+Other payment providers, such as PayPal, will have their own ways of getting funds from your customer to you. Check with the service you are using to find out how they will pay you. You can accept manual payments outside of your online checkout, such as money orders or bank transfers. Unless you activate Shopify Payments as your payment provider, you'll be charged third-party transaction fees for all orders that aren't brokered financially by Shopify. This includes all orders that go through Shopify's checkout system.
+If your store has Shopify Payments enabled, then you receive payments through Shopify Payouts when a customer pays using Shopify Payments and specific accelerated checkouts. If customers pay using third-party payment gateways, then you won't see your payout information in your Shopify admin.
+
+How often you get paid
+If you use Shopify Payments, then you can check your pay period to view when you receive payouts from credit card orders. Other payment providers have their own rules on when you receive payouts for credit card orders. Check with your provider to find out how often you will be paid.
+After the payout is sent, it might not be received by your bank right away. It can take a few days after the payout is sent for it to be deposited into your bank account. Check with your bank if you find your payouts are being delayed.
+If you change banks or if your bank account details change, then you can update the information in your Shopify Payments settings. Learn more about editing your bank account information.
+
+Shop Pay Installments
+After you've captured the payment for an order placed using Shop Pay Installments, you'll receive full payment for your order within 1 to 3 business days, excluding the fee incurred for using Shop Pay Installments. You don't have to collect payments from your customers.
+You get paid by Affirm and your payouts are sent to the same bank account that you use for Shopify Payments. Custom payout schedules don't affect Shop Pay Installments payouts.
+Learn more about Shop Pay Installments.
+
+How much you get paid
+You can be charged several third-party transaction fees for online transactions. For credit card transactions, the issuer, the acquirer, and the credit card company all charge a small fee for using their services.
+You aren't charged third-party transaction fees for orders processed through Shopify Payments. You pay credit card processing fees, depending on your Shopify subscription plan. If you're using a third-party payment provider with Shopify, then you're charged a third-party transaction fee.
+
+How a credit card payment gets processed
+When a customer pays for their online order using a credit card, the payment has to be processed before the funds are added to your merchant account. Credit card processing is done for you by your payment provider. This process has the following stages:
+
+Authorization
+Capture
+Clearing
+Funding
+Authorization
+The customer uses their credit card to pay for the order on your store. The payment provider you've set up checks with the issuer to make sure the credit card is valid. If the card is valid and has enough funds, then the issuer authorizes the payment. No funds are transferred at this stage.
+
+Capture
+After the payment is authorized, the payment has to be captured. When a payment is captured, details about the payment are sent to the acquirer.
+
+Clearing
+The acquirer reviews the payment details, and then requests the necessary funds from the company that processes the customer's credit card.
+
+The credit card company sends the transaction information to the issuer. The issuer subtracts a small fee from the total transaction amount, and then sends the remaining amount back to the credit card company. The card company subtracts their fee, and then sends the remaining amount to the acquirer.
+
+Funding
+The acquirer subtracts a small fee from the amount, and then transfers the final amount to your merchant account.
+
+Manual payment methods are not allowed on free subscription

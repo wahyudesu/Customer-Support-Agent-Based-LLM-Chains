@@ -1,0 +1,149 @@
+Compliance
+At Shopify, we believe in making commerce better for everyone. To help with this mission, we try to provide you with the information that'll help you to make informed decisions about how you sell your products using our platform.
+
+We perform routine platform scans for certain products that might violate the Shopify Acceptable Use Policy.
+To ensure that your use of Shopify is uninterrupted, you need to carefully review all policies that apply to your Shopify store, including the Shopify Terms of Service, and the Shopify Acceptable Use Policy.
+You also need to consider the implications of selling in different jurisdictions, including researching the relevant import and export laws and regulations, and knowing the current legal status of selling products in any region.
+
+Ensuring that your store complies with Shopify's policies
+At Shopify, we believe in making commerce better for everyone. To help with this mission, we try to provide you with the information that'll help you to make informed decisions about how you sell your products using our platform.
+We perform routine platform scans for certain products that might violate the Shopify Acceptable Use Policy.
+To ensure that your use of Shopify is uninterrupted, you need to carefully review all policies that apply to your Shopify store, including the Shopify Terms of Service, and the Shopify Acceptable Use Policy.
+You also need to consider the implications of selling in different jurisdictions, including researching the relevant import and export laws and regulations, and knowing the current legal status of selling products in any region.
+
+While we at Shopify do what we can to set you up for success, there are also steps that you need to take.
+The information found in this section is intended as a starting point to help you learn about selling products in certain regulated areas.
+If you have questions about which laws apply to you, or questions specific to your business, then you need to consult with a lawyer who is familiar with the relevant laws that might apply to your business.
+
+Legal removals and intellectual property
+Shopify respects the valid intellectual property (IP) rights of others and we expect merchants to do the same. Posting content that constitutes an infringement of others' legal rights violates our Acceptable Use Policy and the content can be removed at our discretion.
+
+While Shopify respects legitimate IP rights, it will also not let its policies be abused - the submission of false or bad faith notices of claimed IP infringement is punishable by law.
+Those harmed by such claims, including Shopify itself, may sue for damages and attorneys' fees.
+
+A general guide to Shopify's practices and common questions is included below.
+
+IP: what's the difference between a copyright, trademark, and trade dress?
+IP refers to something produced through creative efforts such as books, text, code, images, videos, logos and slogans. Copyright, trademark, and trade dress are all types of IP.
+
+What's a copyright?
+Copyright protects tangible original works, like photos or text descriptions on an online store. Generally copyright protection applies from the time the work is created, though copyright laws vary by region.
+
+What's a trademark and trade dress?
+Trademarks are symbols or words that identify and distinguish a business or product from other businesses or products. Trade dress covers the image or appearance of a product, including features such as size, shape, color and texture, which distinguishes that product from others. Trademark and trade dress owners generally have the right to prevent others from using similar marks or trade dress in ways that are likely to confuse consumers about the source or origin of products.
+
+Shopify's copyright policy
+Shopify complies with the Digital Millennium Copyright Act (DMCA) and responds to claims of copyright infringement using DMCA procedures, including the law's process of notice and counter notice for claimed copyright infringement:
+
+If Shopify receives a valid notice of alleged copyright infringement, then it will generally remove the challenged content from its platform and will inform the affected merchant via the store admin of the content that has been affected.
+Shopify will give the merchant an opportunity to send a counter notice explaining why they think the content was removed in error. And if the counter notice is valid, then a merchant will generally be allowed to repost the content in 10 days.
+Shopify has a policy of terminating stores for repeat infringement in appropriate circumstances, such as where it has received several notices of alleged infringement that are not countered by the store. Shopify retains discretion to disable stores for even a single instance of willful or egregious infringement.
+The submission of false or bad faith notices of claimed infringement or counter notices is punishable by law. Those harmed by such notices, including Shopify itself, may sue for damages and attorneys' fees.
+Reporting copyright infringement
+Shopify's online form is the most efficient way to submit a notice of alleged copyright infringement.
+
+All notices must include the following information for Shopify to be able to take action:
+
+Your legal name and contact information.
+Direct links to the original copyrighted work claimed to be infringed. If you don't have a direct link, then you can provide a description of your work.
+Direct links to the specific content on Shopify that you belive infringes your copyright. A list of each individual page containing the content is required. A general shop link will not be accepted.
+Confirmation that:
+You have a good faith belief that use of the content in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+All of the information in the notice is accurate.
+A statement, under penalty of perjury, that you are the copyright owner or are authorized to act on behalf of the owner.
+Your physical or electronic signature.
+If you can't use the online form, then you can send a notice with the required information to Shopify's designated agent at:
+
+Shopify Trust & Safety
+Shopify Inc.
+151 O'Connor Street
+Ground floor
+Ottawa, Ontario
+K2P 2L8
+Canada
+Email: legal@shopify.com
+
+A copy of any notice you submit, including any contact information provided, may be provided to the person that posted the content being reported.
+
+For more information, refer to the FAQs below.
+
+FAQ - Responding to a DMCA copyright notice
+I received a DMCA copyright notice for content on my storefront. Now what?
+
+If Shopify receives what it reasonably believes to be a complete and valid DMCA notice regarding content on your store, then it generally will remove the specified content. You'll get a notification in your store admin that content has been removed from your store. You then have two options:
+
+If you review the notice and agree you don't have the right to use the content, then no further action is necessary. The content will remain offline unless you receive approval from the copyright holder.
+If you review the notice and believe the content was removed as a result of mistake or misidentification, then you can file a DMCA counter notice.
+How do I file a DMCA counter notice?
+
+You can send a counter notice to us through a form in your store admin. Your counter notice must have all of the following information to be considered:
+
+The legal name and sufficient contact information of the person submitting the counter notice.
+Identification of the content that has been removed and the original location of the content before it was removed.
+A statement under penalty of perjury that you have a good faith belief that the content was removed as a result of a mistake or misidentification.
+A statement that you consent to the jurisdiction of Federal District Court for the judicial district in which your address is located or, if your address is located outside of the United States, you consent to jurisdiction of the Federal District Court for the District of Delaware, and a statement that you accept service of process from the party who submitted the copyright notice or its agent.
+Your physical or electronic signature.
+If you can't use the online form, then you can send a counter notice with the required information to Shopify's designated agent at:
+
+Shopify Trust & Safety
+Shopify Inc.
+151 O'Connor Street
+Ground floor
+Ottawa, Ontario
+K2P 2L8
+Canada
+Email: legal@shopify.com
+
+What happens after I file a DMCA counter notice?
+
+When you submit a valid counter notice, we'll remove the complaint from your Shopify account record and send a copy of your counter notice to the party that submitted the copyright notice. If they take legal action against you and send us notice of that action within 10-14 business days, then the content may remain down. If we don't receive notice of legal action within that period, then we'll notify you and you may repost the disputed content.
+
+Shopify's trademark and trade dress policy
+Shopify's policy on trademark and trade dress is similar to our copyright policy, but there are some important differences.
+
+If Shopify receives a valid notice of trademark or trade dress infringement regarding content on a store, then Shopify will communicate directly in a merchant's store admin making clear which content is the subject of the notice. You'll have two days to respond before we remove content.
+If your response is deemed sufficient, then we may decline to remove the disputed content or, if it has been removed, allow the merchant to repost the content immediately.
+Reporting trademark and trade dress infringement
+Shopify's online form is the most efficient way to submit a notice of alleged trademark or trade dress infringement.
+
+Your trademark and/or trade dress notice must include the following information for Shopify to be able to take action:
+
+Your legal name or contact information.
+Direct links to samples of the trademark or trade dress claimed to be infringed. If you don't have a direct link, then you may provide a description of the trademark or trade dress.
+Direct links to the specific content on Shopify that you believe infringes your trademark or trade dress. A list of each individual page containing the content is required - a general shop link will not be accepted.
+For trademarks:
+Information for each trademark at issue:
+Description of the trademark.
+Countries it's registered in.
+Trademark registration number.
+Category of products and/or services covered by the registration.
+Description of how you believe the content violates or infringes your trademark(s).
+For trade dress:
+Information for each trade dress at issue:
+Description of the trade dress, including the particular aspects (such as size, shape, color, texture, etc.) of the content that make its appearance distinctive.
+Statement that the trade dress is non-functional.
+Description of how the content on Shopify infringes your trade dress(es), including the aspects of the content (such as size, shape, color, texture, etc.) that you believe are similar to, and likely to cause confusion with, the trade dress.
+Confirmation that:
+You have a good faith belief that use of the content in the manner complained of is not authorized by the trademark or trade dress owner, its agent, or the law.
+All of the information in the notice is accurate.
+A statement, under penalty of perjury, that you are the trademark or trade dress owner or authorized to act on behalf of the owner.
+Your physical or electronic signature.
+FAQ - Responding to a trademark or trade dress notice
+I received a trademark or trade dress notice for content on my storefront. Now what?
+
+If your store receives a valid trademark or trade dress notice, then you'll get a notification in the store admin that content has been reported on your store. You then have two options:
+
+If you review the notice and agree that you don't have the right to use the content, then no further action is necessary. The content will go offline if we don't hear from you after two days.
+If you review the notice and believe the content was reported as a result of mistake or misidentification, then you can file a response.
+How do I file a trademark or trade dress response?
+
+If you received a trademark or trade dress notice, then you can send your response to us through your store admin. Your response must have all of the following information to be considered:
+
+The legal name and sufficient contact information of the person submitting the response.
+Identification of the content that has been removed and the original location of the content before it was removed.
+A statement under penalty of perjury that you have a good faith belief that the content was removed as a result of a mistake or misidentification.
+A statement that you consent to the jurisdiction of Federal District Court for the judicial district in which your address is located or, if your address is located outside of the United States, you consent to jurisdiction of the Federal District Court for the District of Delaware, and a statement that you accept service of process from the party who submitted the trademark or trade dress notice or its agent.
+Your physical or electronic signature.
+What happens after I file a response?
+
+After you submit a valid response, Shopify will send a copy to the party that submitted the trademark or trade dress notice and generally permit you to repost the disputed content.

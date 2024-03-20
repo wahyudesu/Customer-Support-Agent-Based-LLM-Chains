@@ -1,0 +1,21 @@
+Point of sale
+
+You can use Shopify POS to sell your products in person in retail stores, popups, and other locations.
+Whether you're setting up your first Shopify store or expanding your online store to start selling in person you can use the Getting Started section for a complete guide to setting up the Shopify POS app, including choosing the subscription that best meets your needs, and the Hardware overview to learn about Shopify hardware for retail selling.
+
+Shopify POS
+Shopify POS is a point of sale app that you can use to sell your products in person. You can use Shopify POS to sell almost anywhere, including brick-and-mortar stores, markets, and pop-up shops. The Shopify POS app is available for only iOS and Android devices.
+
+Shopify POS syncs with Shopify to track your orders and inventory across your retail locations, online store, and other active sales channels. You can even view and manage your store's orders from the app.
+
+Hardware
+You can connect Shopify with a range of retail hardware that helps you build your business, both in person and online. If you are a merchant with a store located in a supported country, then you can buy supported hardware directly from Shopify.
+
+To find out more about the best hardware to meet your store's needs, refer to the Hardware section.
+
+Managing Shopify POS
+After you've set up your store and purchased your hardware, you're ready to start selling with Shopify POS.
+
+To find out more about how to manage your store's retail experience, refer to the Selling in person section.
+
+Selling in Person: Free Subscription doesn't allow to sell in person, only online
