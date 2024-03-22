@@ -13,4 +13,5 @@ The Langchain project aims to leverage Large Language Models (LLMs) to enhance c
 ## Data Description 
 The project utilizes diverse datasets, including user interaction logs, PDF knowledge bases, and user information stored in databases for demonstration purposes.
 
+## Workflow (with a little bit changing)
 ![image](https://github.com/wahyudesu/Customer-Support-Agent-Based-LLM-Chains/assets/96912274/42eca374-bbfc-4c3e-8bc9-c92a2b15d04c)
